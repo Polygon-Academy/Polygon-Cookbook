@@ -15,3 +15,6 @@ Wanna cook up some complex dApps? Follow these tutorials below.
 * [Arbitrage Bots](https://github.com/wojtekwtf/polygon-arbitrage-bot)
 * [Yield Farming](https://github.com/GalloDaSballo/polygon-yield)
 * [ETL Pipeline](https://github.com/blockchain-etl/polygon-etl)
+* [Superfluid](https://github.com/Polygon-Academy/superfluid)
+* [Aave](https://github.com/Polygon-Academy/aaveexample)
+* [SVGNFTs](https://github.com/Polygon-Academy/svgnfts)
