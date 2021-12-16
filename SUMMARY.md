@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Getting Started](README.md)
-  * [Cooking with Polygon](getting-started/cooking-with-polygon.md)
+  * [Cooking with Polygon](readme/cooking-with-polygon/README.md)
+    * [Why Polygon?](readme/cooking-with-polygon/why-polygon.md)
+    * [Learning Resources](readme/cooking-with-polygon/learning-resources.md)
   * [Installation](getting-started/installation.md)
 * [Core Concepts](core-concepts/README.md)
   * [Accounts & Transactions](core-concepts/accounts-and-transactions.md)
