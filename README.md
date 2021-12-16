@@ -1,10 +1,13 @@
-Polygon Cookbook
+**Polygon Cookbook**
+
 The Polygon Cookbook is meant to house small digestable code snippets for someone that has no experience with blockchain or Polygon to be able to grab and go.
 
-Contributing
+**Contributing**
+
 The Cookbook is welcome to any and all contributions.
 
-Committing
+**Committing**
+
 We are using conventional commits for this repository.
 
 To choose a task or make your own, do the following:
