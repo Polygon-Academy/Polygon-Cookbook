@@ -1,27 +1,26 @@
-# Getting Started
+---
+description: >-
+  The Polygon Cookbook is a developer resource that provides the essential
+  concepts and recipes for building applications on Polygon.
+coverY: 0
+---
 
-Welcome to the most exciting and innovative platform to build your blockchain application on **Polygon Blockchain!**&#x20;
+# Cooking with Polygon
 
-**Polygon Cookbook**
+Each concept and recipe will focus on specific aspects of Polygon development while providing more details and usage examples.
 
-Blockchain technology is poised to revolutionize the way the digital world handles data and does business. Be a part of this revolution and get a head start with decentralized application development on Polygon by continuing to read this guide!
+### [#](https://solanacookbook.com/#contributing)Contributing <a href="#contributing" id="contributing"></a>
 
-The Polygon Cookbook is meant to house small digestable code snippets for someone that has no experience with blockchain or Polygon to be able to grab and go.
+The Cookbook is designed in a way that makes it easy for new Polygon developers to contribute to. Even if you don't know how to do something, the contributing to the cookbook is a great way to learn!
 
-**Contributing**
+Check out all open issues [here](https://github.com/Polygon-Academy/Polygon-Cookbook/issues). Contribution guidelines [here](https://github.com/Polygon-Academy/Polygon-Cookbook/pulls). If you find the cookbook is missing a suggestion, please add an issue.
 
-The Cookbook is welcome to any and all contributions.
+### [#](https://solanacookbook.com/#how-to-read-the-cookbook)How to Read the Cookbook <a href="#how-to-read-the-cookbook" id="how-to-read-the-cookbook"></a>
 
-**Committing**
+The Solana Cookbook is split into different sections, each aimed at a different goal.
 
-We are using conventional commits for this repository.
-
-To choose a task or make your own, do the following:
-
-Add an issue for the task and assign to yourself or comment on the issue Make a draft PR referencing the issue. General flow for making a contribution:
-
-Fork the repo on GitHub Clone the project to your own machine Commit changes to your own branch Push your work back up to your fork Submit a Pull request so that we can review your changes NOTE: Be sure to merge the latest from "upstream" before making a pull request!
-
-You can find tasks on the project board or create an issue and assign it to yourself.
-
-Happy Cooking!
+| Section       | Description                                                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Core Concepts | What you need to know before you start developing - macro concepts that are helpful to knowing what you're doing.          |
+| Ingredients   | Building blocks of Polygon that are good to know for development; snack-sized guides about different tools for development |
+| Recipes       | References to commonly needed code snippets                                                                                |

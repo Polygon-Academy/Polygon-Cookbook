@@ -18,7 +18,7 @@ The crux of developing on Polygon is simple: develop the exact way that you do o
 
 #### **🌱 Building a new dApp on Polygon?**
 
-* Feel free to check out some of the [learning resources](../readme/cooking-with-polygon/learning-resources.md) or go straight down to [recipes](../recipes/) to get started with example dApps.
+* Feel free to check out some of the [learning resources](../getting-started/cooking-with-polygon/learning-resources.md) or go straight down to [recipes](broken-reference) to get started with example dApps.
 
 
 
