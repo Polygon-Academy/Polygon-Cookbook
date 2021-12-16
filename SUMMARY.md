@@ -1,3 +1,15 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Getting Started](README.md)
+  * [Cooking with Polygon](getting-started/cooking-with-polygon.md)
+  * [Installation](getting-started/installation.md)
+* [Core Concepts](core-concepts/README.md)
+  * [Accounts & Transactions](core-concepts/accounts-and-transactions.md)
+  * [PoS & EVM Compatibility](core-concepts/pos-and-evm-compatibility.md)
+* [Ingredients](ingredients/README.md)
+  * [Solidity & RPC Providers](ingredients/solidity-and-rpc-providers.md)
+  * [Faucet](ingredients/faucet.md)
+  * [L2 Bridges](ingredients/l2-bridges.md)
+* [Recipes](recipes/README.md)
+  * [Home Cooking (Basics)](recipes/home-cooking-basics.md)
+  * [Restaurant's Manual (Advanced)](recipes/restaurants-manual-advanced.md)
