@@ -1,4 +1,4 @@
-# Installation
+# 🍳 Installation
 
 You'll need to download:
 

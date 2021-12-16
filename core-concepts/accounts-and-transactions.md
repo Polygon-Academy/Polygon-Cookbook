@@ -1,4 +1,4 @@
-# Accounts & Transactions
+# 💼 Accounts & Transactions
 
 Accounts and transactions on Polygon function exactly the same as they do on mainnet Ethereum, except with lower gas fees and faster finality while maintaining the same security standards.
 

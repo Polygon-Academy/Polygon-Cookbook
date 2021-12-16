@@ -1,4 +1,4 @@
-# Restaurant's Manual (Advanced)
+# 🍝 Restaurant's Manual (Advanced)
 
 Wanna cook up some complex dApps? Follow these tutorials below.
 

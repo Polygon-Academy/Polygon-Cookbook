@@ -1,4 +1,4 @@
-# Solidity & RPC Providers
+# 💻 Solidity & RPC Providers
 
 Solidity is an integral part of designing dApps, and absolutely necessary for smart contracts.
 

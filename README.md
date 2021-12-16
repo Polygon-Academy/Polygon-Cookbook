@@ -2,10 +2,9 @@
 description: >-
   The Polygon Cookbook is a developer resource that provides the essential
   concepts and recipes for building applications on Polygon.
-coverY: 0
 ---
 
-# Cooking with Polygon
+# 🍽 Cooking with Polygon
 
 Each concept and recipe will focus on specific aspects of Polygon development while providing more details and usage examples.
 

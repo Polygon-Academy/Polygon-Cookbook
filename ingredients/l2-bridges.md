@@ -1,4 +1,4 @@
-# L2 Bridges
+# 🌉 L2 Bridges
 
 Polygon brings you a trustless two-way transaction channel between Polygon and Ethereum by introducing the cross-chain bridge with Plasma and PoS security. With this users can transfer tokens across Polygon without incurring third-party risks and market liquidity limitations. _**The Plasma and PoS Bridge is available on both Mumbai as well as Mainnet.**_
 

@@ -1,4 +1,4 @@
-# PoS & EVM Compatibility
+# ⛓ PoS & EVM Compatibility
 
 The crux of developing on Polygon is simple: develop the exact way that you do on Ethereum, except change the deployment RPC that you're using to that of Polygon mainnet / mumbai. The smart contracts are almost all the same\*, the frontends are almost all the same\*.
 
@@ -18,7 +18,7 @@ The crux of developing on Polygon is simple: develop the exact way that you do o
 
 #### **🌱 Building a new dApp on Polygon?**
 
-* Feel free to check out some of the [learning resources](../getting-started/cooking-with-polygon/learning-resources.md) or go straight down to [recipes](broken-reference) to get started with example dApps.
+* Feel free to check out some of the [learning resources](../readme/cooking-with-polygon/learning-resources.md) or go straight down to [recipes](broken-reference) to get started with example dApps.
 
 
 
